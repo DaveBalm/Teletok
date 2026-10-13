@@ -1,0 +1,21 @@
+name = "teletok-mini-app"
+main = "worker.js"
+compatibility_date = "2024-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Cloudflare D1 Database Binding
+[[d1_databases]]
+binding = "DB"
+database_name = "teletok-production-db"
+database_id = "d1-teletok-0001-uuid" # Replace with your: wrangler d1 create teletok-production-db
+
+# Environment Variables
+[vars]
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TRANSCODE_API_URL = "https://transcode-engine.internal/api/compress"
+APP_BASE_URL = "https://teletok-mini-app.workers.dev"
+JWT_SECRET = "teletok_jwt_super_secret_signing_key_2026"
+
+# Static Assets for Frontend (Cloudflare Pages or Worker Assets)
+[site]
+bucket = "./dist"

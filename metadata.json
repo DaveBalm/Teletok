@@ -1,0 +1,6 @@
+{
+  "name": "TeleTok - Telegram TikTok Mini App",
+  "description": "Serverless TikTok-style video platform inside Telegram Mini App with Cloudflare D1 database, curator bot engine, real-time WebSockets, and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

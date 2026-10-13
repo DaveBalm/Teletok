@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for adding the Admin Bulk TXT Video Importer feature. Covers multi-format URL/iframe/BBCode parser, D1 database schema enhancements for iframe embeds, VideoCard responsive embed player, and Admin Curator UI integration.",
+  "updatedAt": "2026-10-13T12:14:34.182568121Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

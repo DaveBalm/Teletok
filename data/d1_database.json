@@ -1,0 +1,232 @@
+{
+  "videos": [
+    {
+      "id": "vid-c4f0f9f3",
+      "telegram_file_id": "BAACAgIAAxk_channel_post_1",
+      "caption": "Quantum computing breakthrough announced #tech",
+      "source_channel": "future_tech",
+      "file_size": 11500000,
+      "duration": 18,
+      "likes_count": 0,
+      "views_count": 0,
+      "created_at": "2026-10-13T00:26:10.902Z",
+      "media_url": "",
+      "sound_title": "Original Audio - @future_tech",
+      "tags": [
+        "telegram",
+        "curator",
+        "shortvideo"
+      ]
+    },
+    {
+      "id": "vid-8db45262",
+      "telegram_file_id": "BAACAgIAAxk_sample",
+      "caption": "Awesome Telegram forward #viral",
+      "source_channel": "meme_lab",
+      "file_size": 14200000,
+      "duration": 10,
+      "likes_count": 0,
+      "views_count": 5,
+      "created_at": "2026-10-11T23:18:38.551Z",
+      "media_url": "",
+      "sound_title": "Original Audio - @meme_lab",
+      "tags": [
+        "telegram",
+        "curator",
+        "shortvideo"
+      ]
+    },
+    {
+      "id": "vid-cyber-tokyo-01",
+      "telegram_file_id": "BAACAgIAAxkBAAIBYWR9z1l_tokyo_cyber_neon_4k",
+      "caption": "Cyberpunk Tokyo rainy midnight vibes in Shinjuku 🌧️ neon reflections hitting different!",
+      "source_channel": "cyber_vibes",
+      "file_size": 14680064,
+      "duration": 14,
+      "likes_count": 1422,
+      "views_count": 12405,
+      "created_at": "2026-10-11T21:18:27.105Z",
+      "media_url": "https://assets.mixkit.co/videos/preview/mixkit-vertical-video-of-a-futuristic-city-at-night-42861-large.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=720&q=80",
+      "sound_title": "Synthwave After Dark - Retrowavz",
+      "tags": [
+        "cyberpunk",
+        "tokyo",
+        "aesthetic",
+        "nightcity"
+      ]
+    },
+    {
+      "id": "vid-ocean-surf-02",
+      "telegram_file_id": "BAACAgIAAxkBAAIBZmK0x8a_pipeline_barrel_drone",
+      "caption": "Golden hour barrel ride in Oahu. The barrel perspective is unreal 🌊🤙 #surf #pipeline",
+      "source_channel": "surflife_daily",
+      "file_size": 17290000,
+      "duration": 18,
+      "likes_count": 3840,
+      "views_count": 42105,
+      "created_at": "2026-10-11T18:18:27.105Z",
+      "media_url": "https://assets.mixkit.co/videos/preview/mixkit-surfer-riding-a-wave-in-the-sea-during-sunset-41484-large.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&w=720&q=80",
+      "sound_title": "Ocean Breeze - Pacific Beats",
+      "tags": [
+        "surf",
+        "goldenhour",
+        "nature",
+        "hawaii"
+      ]
+    },
+    {
+      "id": "vid-coder-ai-03",
+      "telegram_file_id": "BAACAgIAAxkBAAIBAwT2k4j_gemini_terminal_matrix",
+      "caption": "Building a Telegram TikTok Mini App with Cloudflare Workers + D1 in 10 minutes ⚡ #dev #cloudflare",
+      "source_channel": "tech_architects",
+      "file_size": 9840120,
+      "duration": 12,
+      "likes_count": 2190,
+      "views_count": 19805,
+      "created_at": "2026-10-11T15:18:27.105Z",
+      "media_url": "https://assets.mixkit.co/videos/preview/mixkit-hands-of-a-programmer-typing-on-a-keyboard-41706-large.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=720&q=80",
+      "sound_title": "Lo-Fi Coding Beats - ChillHop Cafe",
+      "tags": [
+        "coding",
+        "cloudflare",
+        "telegram",
+        "serverless"
+      ]
+    },
+    {
+      "id": "vid-skate-urban-04",
+      "telegram_file_id": "BAACAgIAAxkBAAIBCmQ8l0p_skate_kickflip_barcelona",
+      "caption": "Clean tre flip down the Barcelona museum stairs on first try 🔥🛹 #skateboarding #street",
+      "source_channel": "skate_culture",
+      "file_size": 13200500,
+      "duration": 16,
+      "likes_count": 890,
+      "views_count": 7325,
+      "created_at": "2026-10-11T11:18:27.105Z",
+      "media_url": "https://assets.mixkit.co/videos/preview/mixkit-young-man-skateboarding-on-the-street-41716-large.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?auto=format&fit=crop&w=720&q=80",
+      "sound_title": "90s Boom Bap - Urban Groove",
+      "tags": [
+        "skate",
+        "barcelona",
+        "tricks",
+        "streetwear"
+      ]
+    },
+    {
+      "id": "vid-aurora-boreal-05",
+      "telegram_file_id": "BAACAgIAAxkBAAIBDgH5x2v_aurora_norway_tromso",
+      "caption": "Aurora Borealis dancing over the Norwegian fjords in Tromsø 🌌 Magical northern lights!",
+      "source_channel": "nordic_expeditions",
+      "file_size": 15400200,
+      "duration": 20,
+      "likes_count": 5120,
+      "views_count": 63005,
+      "created_at": "2026-10-11T05:18:27.105Z",
+      "media_url": "https://assets.mixkit.co/videos/preview/mixkit-northern-lights-over-a-snowy-landscape-42867-large.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=720&q=80",
+      "sound_title": "Celestial Wonder - Ambient Stars",
+      "tags": [
+        "aurora",
+        "norway",
+        "tromso",
+        "wanderlust"
+      ]
+    },
+    {
+      "id": "vid-espresso-craft-06",
+      "telegram_file_id": "BAACAgIAAxkBAAIBEfR7j9w_latte_art_swan_barista",
+      "caption": "Pouring a swan latte art with silky flat white microfoam ☕ Morning routine perfection.",
+      "source_channel": "specialty_coffee",
+      "file_size": 11200000,
+      "duration": 15,
+      "likes_count": 1740,
+      "views_count": 15605,
+      "created_at": "2026-10-10T23:18:27.105Z",
+      "media_url": "https://assets.mixkit.co/videos/preview/mixkit-barista-pouring-coffee-into-a-cup-41551-large.mp4",
+      "thumbnail_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=720&q=80",
+      "sound_title": "Morning Acoustic - Coffeehouse Jazz",
+      "tags": [
+        "latteart",
+        "coffee",
+        "barista",
+        "morning"
+      ]
+    }
+  ],
+  "video_reactions": [
+    {
+      "id": "r-1",
+      "video_id": "vid-cyber-tokyo-01",
+      "user_id": "tg_guest_01",
+      "reaction_type": "like",
+      "created_at": "2026-10-11T23:18:27.105Z"
+    },
+    {
+      "id": "react_78a84a25-66a1-4d7a-be38-acd00937fffd",
+      "video_id": "vid-cyber-tokyo-01",
+      "user_id": "tg_test_1",
+      "reaction_type": "fire",
+      "created_at": "2026-10-11T23:18:34.972Z"
+    },
+    {
+      "id": "react_e0aa5482-c156-49be-8cc5-75a1d33bd65d",
+      "video_id": "vid-cyber-tokyo-01",
+      "user_id": "tg_durov_01",
+      "reaction_type": "laugh",
+      "created_at": "2026-10-13T00:04:35.281Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "c-1",
+      "video_id": "vid-cyber-tokyo-01",
+      "user_id": "tg_99812",
+      "user_name": "Kenji Sato",
+      "user_handle": "@kenjisato",
+      "avatar_color": "from-blue-500 to-indigo-600",
+      "text": "The cyberpunk atmosphere in Shinjuku never gets old! Rain makes neon pop x10 🔥",
+      "created_at": "2026-10-11T22:18:27.105Z",
+      "likes": 34
+    },
+    {
+      "id": "c-2",
+      "video_id": "vid-cyber-tokyo-01",
+      "user_id": "tg_44120",
+      "user_name": "Elena Rostova",
+      "user_handle": "@elena_tokyo",
+      "avatar_color": "from-purple-500 to-pink-500",
+      "text": "Telegram Mini App playback is so smooth! Loving the instant stream proxy 🚀",
+      "created_at": "2026-10-11T22:48:27.105Z",
+      "likes": 19
+    },
+    {
+      "id": "c-3",
+      "video_id": "vid-coder-ai-03",
+      "user_id": "tg_77199",
+      "user_name": "Pavel Durov Fan",
+      "user_handle": "@durov_watcher",
+      "avatar_color": "from-emerald-500 to-teal-600",
+      "text": "Cloudflare D1 is super fast for random feed fetching. Great architecture!",
+      "created_at": "2026-10-11T23:03:27.105Z",
+      "likes": 42
+    }
+  ],
+  "compression_jobs": [
+    {
+      "id": "job_1791760722092",
+      "file_name": "telegram_video__heavy.mp4",
+      "original_size_bytes": 25165824,
+      "status": "queued",
+      "progress": 5,
+      "preset": "720p H.264 Fast CRF 28",
+      "chat_id": 123,
+      "caption": "Heavy 4K clip needing compression",
+      "source_channel": "cinema_4k",
+      "created_at": "2026-10-11T23:18:42.092Z"
+    }
+  ]
+}
